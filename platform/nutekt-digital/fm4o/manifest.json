@@ -1,0 +1,21 @@
+{
+    "header" :
+    {
+        "platform" : "nutekt-digital",
+        "module" : "osc",
+        "api" : "1.1-0",
+        "dev_id" : 0,
+        "prg_id" : 0,
+        "version" : "0.1-0",
+        "name" : "fm4o",
+        "num_param" : 6,
+        "params" : [
+            ["O1 Feedback", 0, 100, "%"],
+            ["O2 Octave", -2, 2, ""],
+            ["O3 Octave", -2, 2, ""],
+            ["O3 Mod. Depth", 0, 100, "%"],
+            ["O4 Octave", -2, 2, ""],
+            ["Balance", 0, 100, "%"]
+        ]
+    }
+}
